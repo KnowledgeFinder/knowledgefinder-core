@@ -36,7 +36,7 @@
 	<properties>
 		<!-- knowledgefinderII settings -->
 		<knowledgefinderII.instance.name>example</knowledgefinderII.instance.name>
-		<knowledgefinderII.path.prefix>../</knowledgefinderII.path.prefix>
+		<knowledgefinderII.path.prefix>/</knowledgefinderII.path.prefix>
 		<knowledgefinderII.liferay.dir>D:\liferay-portal-6.2-ce-ga2</knowledgefinderII.liferay.dir>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
