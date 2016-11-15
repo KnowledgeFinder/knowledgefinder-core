@@ -16,6 +16,10 @@ After indexing, the search engine can access the index and search the respective
 * [KnowledgeFinder Webservice](https://github.com/KnowledgeFinder/knowledgefinder-webservice)
 * [KnowledgeFinder Theme](https://github.com/KnowledgeFinder/knowledgefinder-theme)
 
+## Getting started
+
+For a short and quick setting up of the project. See [Quick Set up](https://github.com/KnowledgeFinder/knowledgefinder-core/wiki/Quick-Set-up)
+
 ## Documentation
 
 The documentation can be found in the [wiki](https://github.com/KnowledgeFinder/knowledgefinder-core/wiki).
