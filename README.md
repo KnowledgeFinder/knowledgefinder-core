@@ -16,6 +16,10 @@ After indexing, the search engine can access the index and search the respective
 * [KnowledgeFinder Webservice](https://github.com/KnowledgeFinder/knowledgefinder-webservice)
 * [KnowledgeFinder Theme](https://github.com/KnowledgeFinder/knowledgefinder-theme)
 
+## Set up
+
+The knowledgefinder-core is the basis module of the KnowlegFinder and provides common dependencies for all other submodules. A guide to set up the whole KnowledgeFinder Project including a basic example configuration can be found [here](https://github.com/KnowledgeFinder/knowledgefinder-core/wiki/Quick-Set-up).
+
 ## Documentation
 
 The documentation can be found in the [wiki](https://github.com/KnowledgeFinder/knowledgefinder-core/wiki).
