@@ -13,7 +13,8 @@ After indexing, the search engine can access the index and search the respective
 ## Related projects
 
 * [KnowledgeFinder Dataimport](https://github.com/KnowledgeFinder/knowledgefinder-dataimport)
-* [KnowledgeFinder Webapp](https://github.com/KnowledgeFinder/knowledgefinder-webapp)
+* [KnowledgeFinder Webservice](https://github.com/KnowledgeFinder/knowledgefinder-webservice)
+* [KnowledgeFinder Theme](https://github.com/KnowledgeFinder/knowledgefinder-theme)
 
 ## Set up
 
