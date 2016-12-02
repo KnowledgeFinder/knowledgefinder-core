@@ -3,7 +3,11 @@
 KnowledgeFinder is a open source software to create expert systems, which helps scientists to organize, search and explore their data. Improving their everyday work alone and as a group. 
 Documents and their meta data can be automatically crawled, indexed, made searchable and visualized. Interactive and adaptable visualizations allows users to get a quick overview over the stored data and to explore it in depth with just a few clicks.
 
-## Use Cases
+## Example Use Cases
+
+KnowledgeFinder is a software to create an export system for your needs. Adapt it to your use cases by combining existing features or write your own.
+
+Here is a list of possible use cases which can be adressed by an expert system created based on KnowledgeFinder.
 
 * Get an overview over your data - What data is stored in the expert system? Get a quick overview which data is contained and what it is about by clicking through a graph based representation of your documents based on the provided meta data.
 * Learn about a field - Easily get access to all data belonging to specific terms (use full text search and filters). You get a list of the documents including the most important attributes as well as a meta data based visualisation of shared attributes.
