@@ -23,3 +23,4 @@ The knowledgefinder-core is the basis module of the KnowlegFinder and provides c
 ## Documentation
 
 The documentation can be found in the [wiki](https://github.com/KnowledgeFinder/knowledgefinder-core/wiki).
+and also in our gitlab //this line is only to check the gitlab - jenkins trigger
