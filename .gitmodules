@@ -1,12 +1,12 @@
 [submodule "knowledgefinder-dataimport"]
 	path = knowledgefinder-dataimport
 	url = https://github.com/KnowledgeFinder/knowledgefinder-dataimport.git
-	branch = master
+	branch = release-2.0.0
 [submodule "knowledgefinder-webapp"]
 	path = knowledgefinder-webapp
 	url = https://github.com/KnowledgeFinder/knowledgefinder-webapp.git
-	branch = master
+	branch = release-2.0.0
 [submodule "knowledgefinder-config-example"]
 	path = knowledgefinder-config-example
 	url = https://github.com/KnowledgeFinder/knowledgefinder-config-example.git
-	branch = master
+	branch = release-2.0.0
